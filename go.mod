@@ -22,6 +22,7 @@ require (
 	github.com/nfnt/resize v0.0.0-20180221191011-83c6a9932646
 	github.com/ogier/pflag v0.0.1
 	github.com/oklog/run v1.0.0
+	github.com/olekukonko/tablewriter v0.0.1
 	github.com/openzipkin/zipkin-go v0.2.2
 	github.com/owncloud/ocis-pkg/v2 v2.2.1
 	github.com/pkg/errors v0.9.1
